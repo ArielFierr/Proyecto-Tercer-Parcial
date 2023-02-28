@@ -2,7 +2,12 @@
 
 OBJETIVO PRINCIPAL:
 
+Realizar un circuito que funcione de acuerdo a las especificaciones del proyecto a realizar, un sensor de temperatura mediante un sensor integrado y un amplificador LM35 y  LM358.
+
 OBJETIVOS SECUNDARIOS:
+
+- Comprender el funcionamiento del circuito realizado, conociendo cada elemento utilizado así como el funcionamiento en el presente circuito.
+- Identificar como la corriente y el sensor se complementan indicándonos el cambio de temperatura marcando verde o rojo mediante los diodo led.
 
 MARCO TEORICO:
 ![image](https://user-images.githubusercontent.com/116833736/221909864-8366940c-f872-4f41-b9c6-a9ec85b014f0.png)
@@ -22,6 +27,7 @@ MATERIALES:
 * Multimetro
 
 CIRCUITO:
+
 ![image](https://user-images.githubusercontent.com/116833736/221910409-28735889-7765-412b-aba7-f94dcaaae64e.png)
 
 PROCEDIMIENTO:
@@ -50,6 +56,8 @@ https://youtube.com/shorts/X4FtWjnT7wc
 
 CONCLUSIONES:
 
+- Al desarrollar el proyecto se comprendió el funcionamiento del sensor con respecto a una alta temperatura, mostrándonos mediante los diodos LEDS la variación de temperatura conforme sube o baja
+- Se llegó a la conclusión que el circuito realizado es posible mediante los componentes LM35 y LM538 ya que conociendo la teoría de cada uno de estos se complementan junto al potenciómetro para darnos una demostración visual del cambio de temperatura
 
 BIBLIOGRAFIA:
 
