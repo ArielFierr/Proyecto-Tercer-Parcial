@@ -20,10 +20,9 @@ MATERIALES:
 * Un censor integrado LM35
 * Un amplificador operacional LM358
 * Un potenciómetro de 100k
-* LED rojO 
+* LED rojo
 * LED verde
 * 2 resistencias de 470 ohm
-* 1 resistencia de 10k Ohm
 * Multimetro
 
 CIRCUITO:
